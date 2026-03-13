@@ -1,5 +1,5 @@
 public class Jthmdz17 {
-    
+    public static void main(String[] args) {
     /*
  * EJERCICIO:
  * - Crea un comentario en el código y coloca la URL del sitio web oficial del
@@ -73,7 +73,7 @@ public class Jthmdz17 {
     //Char handles characters
     char example8 = 'T';
 
-    public static void main(String[] args) {
+    
         System.out.println("¡Hola, Java!");
     }
 }
